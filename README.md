@@ -7,7 +7,10 @@ Image training set contain 10,000 images i.e 5,000 each category. I split those 
 
 Network Parameters:
 
-  -Rectifier Linear Unit
-  -Adam optimizer
-  -Sigmoid on Final output
-  -Binary CrossEntropy loss
+  1)Rectifier Linear Unit
+  
+  2)Adam optimizer
+  
+  3)Sigmoid on Final output
+  
+  4)Binary CrossEntropy loss
